@@ -800,3 +800,5 @@
 * [Lập trình viên TV](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
 * [Thư Viện Lập Trình](https://www.youtube.com/c/ThuvienlaptrinhEduVn)
 * [CodersX](https://www.youtube.com/c/CodersX)
+
+## All Code Is Copyright by Irhrhd
