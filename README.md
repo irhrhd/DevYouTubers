@@ -1,5 +1,5 @@
 # Amazing Developers On YouTube
-> A curated list of amazing development channels on YouTube. These include web development, back-end development, front-end development live coders and more!
+> A curated list of amazing development channels on YouTube. These include web development, back-end development, front-end development live coders and more! Go to <a href="irhrhd.github.io/Irhrhds-Website">My Website</a> if you like hacking prodigy or coding
 
 
 - [Amazing Developers Of YouTube](#amazing-developers-of-youtube)
